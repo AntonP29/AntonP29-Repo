@@ -87,7 +87,7 @@
     {
       "beta": false,
       "name": "1998 Vintage Cam",
-      "bundleIdentifier": "com.1998vintagecam.app",
+      "bundleIdentifier": "com.h3d2.1998cam",
       "developerName": "AntonP29",
       "subtitle": "Retro photo editor v2.0.7",
       "description": "A photography app offering vintage filters and effects with premium features unlocked.",
@@ -105,7 +105,7 @@
     {
       "beta": false,
       "name": "Genie - AI Chatbot Assistant",
-      "bundleIdentifier": "com.chatbot.genie",
+      "bundleIdentifier": "co.appnation.geniechat",
       "developerName": "AntonP29",
       "subtitle": "AI assistant with Pro v7.7.1",
       "description": "An AI-powered chatbot for answering questions and assisting users with Pro features unlocked.",
@@ -141,7 +141,7 @@
     {
       "beta": false,
       "name": "Flightradar24 Flight Tracker",
-      "bundleIdentifier": "com.flightradar24.app",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "AntonP29",
       "subtitle": "Flight tracking with Gold v10.7.0",
       "description": "Track flights in real-time with Gold features unlocked for an enhanced experience.",
@@ -159,7 +159,7 @@
     {
       "beta": false,
       "name": "FreeYourMusic - Move Playlists",
-      "bundleIdentifier": "com.freeyourmusic.app",
+      "bundleIdentifier": "io.stampapp.Stamp",
       "developerName": "AntonP29",
       "subtitle": "Playlist transfer v9.10.0",
       "description": "Transfer playlists between music services with subscription features unlocked.",
@@ -177,7 +177,7 @@
     {
       "beta": false,
       "name": "Adobe Lightroom: Photo Editor",
-      "bundleIdentifier": "com.adobe.lrmobile",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "AntonP29",
       "subtitle": "Pro photo editing v10.2.2",
       "description": "Edit photos with professional tools and Pro features unlocked.",
@@ -195,7 +195,7 @@
     {
       "beta": false,
       "name": "Magic Tiles 3: Piano Game",
-      "bundleIdentifier": "com.youmusic.magictiles",
+      "bundleIdentifier": "com.amanotes.magictiles",
       "developerName": "AntonP29",
       "subtitle": "Music game with VIP v12.021.103",
       "description": "Play piano tiles with VIP features unlocked for an enhanced music experience.",
@@ -231,7 +231,7 @@
     {
       "beta": false,
       "name": "Photomath",
-      "bundleIdentifier": "com.microblink.photomath",
+      "bundleIdentifier": "com.microblink.PhotoMath",
       "developerName": "AntonP29",
       "subtitle": "Math solver with Plus v8.41.0",
       "description": "Solve math problems with step-by-step explanations and Plus features unlocked.",
@@ -267,6 +267,7 @@
     {
       "beta": false,
       "name": "ShowMania",
+      "bundleIdentifier": "com.muzice.offline.player",
       "developerName": "AntonP29",
       "subtitle": "Free movies/TV app v2.0.3",
       "description": "A streaming app for movies and TV shows with no subscription required.",
@@ -284,7 +285,7 @@
     {
       "beta": false,
       "name": "StepsApp Pedometer",
-      "bundleIdentifier": "com.stepsapp.pedometer",
+      "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "AntonP29",
       "subtitle": "Step counter with Pro v8.1.16",
       "description": "Track your steps and fitness goals with Pro features unlocked.",
@@ -302,7 +303,7 @@
     {
       "beta": false,
       "name": "Walli - HD Wallpapers",
-      "bundleIdentifier": "com.walliapp.wallpapers",
+      "bundleIdentifier": "com.stanga.projectKu",
       "developerName": "AntonP29",
       "subtitle": "Wallpapers with Pro v1.86.0",
       "description": "Access high-quality wallpapers with Pro features unlocked.",
