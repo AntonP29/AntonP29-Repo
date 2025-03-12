@@ -1,8 +1,8 @@
 {
   "name": "AntonP29 iPA Repo",
   "identifier": "com.antonp29.repo",
-  "iconURL": "https://antonp29.github.io/AntonP29-Repo/icons/ap29_logo.png",
-  "website": "https://t.me/antonp29",
+  "iconURL": "https://github.com/AntonP29/AntonP29-Repo/blob/main/icons/ap29-logo.png",
+  "website": "https://antonp29.vercel.app/",
   "subtitle": "Tweaked iPA Apps for iOS by AntonP29",
   "description": "Repository for AntonP29's tweaked iPA apps.",
   "tintColor": "D3D5D4",
@@ -19,7 +19,7 @@
       "subtitle": "Sheet music reader v14.3.4",
       "description": "A powerful sheet music reader for iOS with annotation and organization features.",
       "localizedDescription": "forScore v14.3.4\n- A powerful sheet music reader for iOS.\n- Features: Annotate, organize, and share sheet music.\n- No tweaks applied, decrypted IPA.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/2e/5e/7e2e5e9f-6c5f-3f5d-6e2e-5e9f6c5f3f5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://github.com/AntonP29/AntonP29-Repo/blob/main/icons/forscore-icon.jpg",
       "tintColor": "#326B8B",
       "category": "music",
       "version": "14.3.4",
@@ -37,7 +37,7 @@
       "subtitle": "File compression tool v20.60",
       "description": "A file compression and decompression tool for iOS with pro features unlocked.",
       "localizedDescription": "iZip Pro v20.60\n- A file compression and decompression tool for iOS.\n- Features: Unzip and zip files, support for multiple formats.\n- Pro features unlocked.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/3a/4e/5d3a4e8f-9b2c-1f7d-2e5a-7b8c9d0e1f2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://github.com/AntonP29/AntonP29-Repo/blob/main/icons/iZip%20Pro%20-%20icon.jpg",
       "tintColor": "#00BFFE",
       "category": "utilities",
       "version": "20.60",
@@ -55,7 +55,7 @@
       "subtitle": "Caller ID with Gold Unlocked v14.6",
       "description": "Identify unknown callers and block spam with Gold Unlocked features.",
       "localizedDescription": "Truecaller: Number & Caller ID v14.6\n- Identify unknown callers and block spam.\n- Modifier: Gold Unlocked.\n- Note: Requires iOS 16.0 or later.\n\nTweaked by @blatants",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/04/ea/d404eade-40e7-b7c7-e524-2050ad1711de/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://github.com/AntonP29/AntonP29-Repo/blob/main/icons/Truecaller-icon.jpg",
       "tintColor": "#FF4500",
       "category": "communication",
       "version": "14.6",
@@ -88,11 +88,11 @@
     {
       "title": "Welcome to AntonP29 iPA Repo",
       "identifier": "welcome",
-      "caption": "Thanks for using my repository! Join my Telegram for updates.",
+      "caption": "Thanks for using my repository! Check out my portfolio!",
       "date": "2025-03-11",
       "tintColor": "#326B8B",
-      "imageURL": "https://antonp29.github.io/AntonP29-Repo/icons/ap29_logo.png",
-      "url": "https://t.me/antonp29",
+      "imageURL": "https://github.com/AntonP29/AntonP29-Repo/blob/main/icons/ap29-logo.png",
+      "url": "https://antonp29.vercel.app/",
       "notify": true
     }
   ]
