@@ -1,0 +1,54 @@
+{
+  "name": "AntonP29 iPA Repo",
+  "identifier": "com.antonp29.repo",
+  "sourceURL": "https://antonp29.github.io/AntonP29-Repo/repo.json",
+  "iconURL": "https://antonp29.github.io/AntonP29-Repo/icons/ap29_logo.png",
+  "website": "https://t.me/antonp29",
+  "subtitle": "Tweaked iPA Apps for iOS by AntonP29",
+  "apps": [
+    {
+      "name": "forScore",
+      "bundleIdentifier": "com.mgsdevelopment.forscore",
+      "developerName": "AntonP29",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/2e/5e/7e2e5e9f-6c5f-3f5d-6e2e-5e9f6c5f3f5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "version": "14.3.4",
+      "size": 12000000,
+      "downloadURL": "https://link.storjshare.io/raw/jv3ddzi2cyl3duw5cefafg4kqfxa/pirating.xyz-general/forScore%20(v14.3.4).ipa",
+      "localizedDescription": "forScore v14.3.4\n- A powerful sheet music reader for iOS.\n- Features: Annotate, organize, and share sheet music.\n- No tweaks applied, decrypted IPA.\n\nCompiled by AntonP29\nNew channel: https://t.me/antonp29\nAntonP29 iPA Repo: https://antonp29.github.io/AntonP29-Repo/repo.json",
+      "versionDate": "2025-03-11"
+    },
+    {
+      "name": "iZip Pro",
+      "bundleIdentifier": "com.comcsoft.izippro",
+      "developerName": "AntonP29",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/3a/4e/5d3a4e8f-9b2c-1f7d-2e5a-7b8c9d0e1f2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "version": "20.60",
+      "size": 24000000,
+      "downloadURL": "https://link.storjshare.io/raw/jujzo5snzsvlbkiikmq6sgsoithq/pirating.xyz-general/iZip%20Pro%20v20.60.ipa",
+      "localizedDescription": "iZip Pro v20.60\n- A file compression and decompression tool for iOS.\n- Features: Unzip and zip files, support for multiple formats.\n- Pro features unlocked.\n\nCompiled by AntonP29\nNew channel: https://t.me/antonp29\nAntonP29 iPA Repo: https://antonp29.github.io/AntonP29-Repo/repo.json",
+      "versionDate": "2025-03-11"
+    },
+    {
+      "name": "Truecaller",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "developerName": "AntonP29",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/04/ea/d404eade-40e7-b7c7-e524-2050ad1711de/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "version": "14.6",
+      "size": 115000000,
+      "downloadURL": "https://link.storjshare.io/raw/ju3y5mduywy7wasnnw53ftzonepq/pirating.xyz-general/Truecaller_Number_%26_Caller_ID_v14_6_Gold_Unlocked_blatant_blatant.ipa",
+      "localizedDescription": "Truecaller: Number & Caller ID v14.6\n- Identify unknown callers and block spam.\n- Modifier: Gold Unlocked.\n- Note: Requires iOS 16.0 or later.\n\nTweaked by @blatants\nCompiled by AntonP29\nNew channel: https://t.me/antonp29\nAntonP29 iPA Repo: https://antonp29.github.io/AntonP29-Repo/repo.json",
+      "versionDate": "2025-03-11"
+    },
+    {
+      "name": "HD Flix",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "developerName": "AntonP29",
+      "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/main/icons/hdflix-icon.jpeg",
+      "version": "1.0",
+      "size": 15000000,
+      "downloadURL": "https://link.storjshare.io/raw/juikrj5yjmz4wwwudbo62bpl6ppa/pirating.xyz-general/HD_Flix_No_Ads_Pirating.xyz.ipa",
+      "localizedDescription": "HD Flix No Ads\n- A streaming app for movies and TV shows.\n- Features: Ad-free experience, high-quality streaming.\n- Note: Requires iOS 14.0 or later.\n\nCompiled by AntonP29\nNew channel: https://t.me/antonp29\nAntonP29 iPA Repo: https://antonp29.github.io/AntonP29-Repo/repo.json",
+      "versionDate": "2025-03-11"
+    }
+  ]
+}
