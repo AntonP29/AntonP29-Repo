@@ -447,10 +447,20 @@
   ],
   "news": [
     {
+      "title": "forScore Cracked",
+      "identifier": "forscore",
+      "caption": "One of the only sources with a working cracked forScore Pro. Click the link below to download.",
+      "date": "2025-03-23",
+      "tintColor": "#000000",
+      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/banner1.png",
+      "url": "https://link.storjshare.io/raw/jv3ddzi2cyl3duw5cefafg4kqfxa/pirating.xyz-general/forScore%20(v14.3.4).ipa",
+      "notify": true
+    },
+    {
       "title": "Check out Pirating.xyz!",
       "identifier": "pirating-xyz",
       "caption": "A modern hub for digital resources 🏴‍☠️!",
-      "date": "2025-03-23",
+      "date": "2025-03-22",
       "tintColor": "#000000",
       "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/piratingiconv2.png",
       "url": "https://pirating.xyz/",
@@ -460,8 +470,8 @@
       "title": "AP29 Repo Viewer dropped!",
       "identifier": "repo-viewer",
       "caption": "Check out my web repo viewer!",
-      "date": "2025-03-22",
-      "tintColor": "#FF4500",
+      "date": "2025-03-21",
+      "tintColor": "#000000",
       "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/repoviewer.jpg",
       "url": "https://repoviewer.pages.dev/",
       "notify": true
@@ -471,7 +481,7 @@
       "identifier": "welcome",
       "caption": "Thanks for using my repository! Check out my portfolio!",
       "date": "2025-03-11",
-      "tintColor": "#326B8B",
+      "tintColor": "#000000",
       "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/ap29-logo.png",
       "url": "https://antonp29.pages.dev/",
       "notify": true
