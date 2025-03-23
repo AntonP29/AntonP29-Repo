@@ -447,26 +447,6 @@
   ],
   "news": [
     {
-      "title": "Welcome to AntonP29 iPA Repo",
-      "identifier": "welcome",
-      "caption": "Thanks for using my repository! Check out my portfolio!",
-      "date": "2025-03-11",
-      "tintColor": "#326B8B",
-      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/ap29-logo.png",
-      "url": "https://antonp29.pages.dev/",
-      "notify": true
-    },
-    {
-      "title": "AP29 Repo Viewer dropped!",
-      "identifier": "repo-viewer",
-      "caption": "Check out my web repo viewer!",
-      "date": "2025-03-23",
-      "tintColor": "#FF4500",
-      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/repoviewer.jpg",
-      "url": "https://repoviewer.pages.dev/",
-      "notify": true
-    },
-    {
       "title": "Check out Pirating.xyz!",
       "identifier": "pirating-xyz",
       "caption": "A modern hub for digital resources 🏴‍☠️!",
@@ -474,6 +454,26 @@
       "tintColor": "#000000",
       "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/piratingiconv2.png",
       "url": "https://pirating.xyz/",
+      "notify": true
+    },
+    {
+      "title": "AP29 Repo Viewer dropped!",
+      "identifier": "repo-viewer",
+      "caption": "Check out my web repo viewer!",
+      "date": "2025-03-22",
+      "tintColor": "#FF4500",
+      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/repoviewer.jpg",
+      "url": "https://repoviewer.pages.dev/",
+      "notify": true
+    },
+    {
+      "title": "Welcome to AntonP29 iPA Repo",
+      "identifier": "welcome",
+      "caption": "Thanks for using my repository! Check out my portfolio!",
+      "date": "2025-03-11",
+      "tintColor": "#326B8B",
+      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/ap29-logo.png",
+      "url": "https://antonp29.pages.dev/",
       "notify": true
     }
   ]
