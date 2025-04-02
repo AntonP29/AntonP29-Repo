@@ -565,7 +565,7 @@
       "developerName": "AntonP29",
       "subtitle": "On-device JIT enabler (iOS 17.4+) v1.1",
       "description": "On-device JIT enabler (iOS 17.4+)",
-      "localizedDescription": "New on-device JIT enabler\n- Requires iOS 17.4 or higher\n- Requires StosVPN\n\nTo get StosVPN use this TestFlight link: https://testflight.apple.com/join/hBUbg4ZJ\nAltenatively, if using Feather, refer to the StosVPN tile at the top of the repo.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
+      "localizedDescription": "New on-device JIT enabler\n- Requires iOS 17.4 or higher\n- Requires StosVPN\n\nTo get StosVPN use this TestFlight link: https://testflight.apple.com/join/hBUbg4ZJ\nAltenatively, if using Feather, refer to the StosVPN tile at the top of the repo.\n\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/StikJIT_Rounded_Corners.png",
       "tintColor": "#3396bd",
       "category": "utilities",
