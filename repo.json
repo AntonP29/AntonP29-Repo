@@ -1,8 +1,7 @@
 {
   "name": "AntonP29 iPA Repo",
   "identifier": "com.antonp29.repo",
-  "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/ap29-logosquare.png",
-  "website": "https://antonp29.pages.dev/",
+  "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP  "website": "https://antonp29.pages.dev/",
   "subtitle": "Tweaked iPA Apps for iOS by AntonP29",
   "description": "Repository for AntonP29's tweaked iPA apps.",
   "tintColor": "D3D5D4",
@@ -65,7 +64,7 @@
           "size": 145000
         }
       ]
-    }
+    },
     {
       "beta": false,
       "name": "Adobe Lightroom: Photo Editor",
@@ -439,7 +438,7 @@
         {
           "version": "5.5.5",
           "date": "2025-03-23",
-          "downloadURL": "https://link.storjshare.io/raw/jvs75naduruadugm2wanhqd2atqa/p要注意irating.xyz-general/com.ookla.speedtest-5.5.5_patched_nofix.ipa",
+          "downloadURL": "https://link.storjshare.io/raw/jvs75naduruadugm2wanhqd2atqa/pirating.xyz-general/com.ookla.speedtest-5.5.5_patched_nofix.ipa",
           "size": 69562515
         }
       ]
@@ -713,7 +712,7 @@
           "size": 85983232
         }
       ]
-    },
+    }
   ],
   "news": [
     {
@@ -722,7 +721,7 @@
       "caption": "Click the link below to download the AdBlocker dylib",
       "date": "2025-04-1",
       "tintColor": "#000000",
-      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/dylibicon.png",
+      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/2A1CA7F3-A476-47FD-9656-594309EEC991.jpeg",
       "url": "https://link.storjshare.io/raw/jvmfqvt777zyzmyk2c66orowor4q/repo/ipa/adblocker.dylib",
       "notify": true
     },
