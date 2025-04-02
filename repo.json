@@ -1,7 +1,8 @@
 {
   "name": "AntonP29 iPA Repo",
   "identifier": "com.antonp29.repo",
-  "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP  "website": "https://antonp29.pages.dev/",
+  "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/ap29-logosquare.png",
+  "website": "https://antonp29.pages.dev/",
   "subtitle": "Tweaked iPA Apps for iOS by AntonP29",
   "description": "Repository for AntonP29's tweaked iPA apps.",
   "tintColor": "D3D5D4",
@@ -45,7 +46,7 @@
       "developerName": "AntonP29",
       "subtitle": "AdBlock dylib - inject into sideloaded apps to remove ads",
       "description": "Inject dylib into sideloaded apps to remove ads\nStatus: ✅",
-      "localizedDescription": "AdBlock dylib used for removing ads in sideloaded apps\n- Downloading dylibs in signer apps does not work.\n- To download - copy download URL and paste into browser.\nStatus: ✅\n\nAlternatively, if you are using Feather, download the dylib from the above tiles in the beginning of the repo.",
+      "localizedDescription": "AdBlock dylib used for removing ads in sideloaded apps\n- Downloading dylibs in signer apps does not work.\n- To download - copy download URL and paste into browser.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅\n\nAlternatively, if you are using Feather, download the dylib from the above tiles in the beginning of the repo.",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/dylibicon.png",
       "tintColor": "#000000",
       "category": "utilities",
@@ -612,7 +613,7 @@
       "developerName": "AntonP29",
       "subtitle": "Caller ID with Gold Unlocked v14.10",
       "description": "Identify unknown callers and block spam with Gold Unlocked features.",
-      "localizedDescription": "Truecaller: Number & Caller ID v14.10\n- Identify unknown callers and block spam.\n- Modifier: Gold Unlocked.\n- Note: Requires iOS 16.0 or later.\n- Tweaked by @blatants\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
+      "localizedDescription": "Truecaller: Number & Caller ID v14.10\n- Identify unknown callers and block spam.\n- Modifier: Gold Unlocked.\n- Note: Requires iOS 16.0 or later.\n\nTweaked by @blatants\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/Truecaller-icon.jpg",
       "tintColor": "#FF4500",
       "category": "communication",
@@ -716,16 +717,6 @@
   ],
   "news": [
     {
-      "title": "AdBlocker dylib",
-      "identifier": "adblocker-dylib",
-      "caption": "Click the link below to download the AdBlocker dylib",
-      "date": "2025-04-1",
-      "tintColor": "#000000",
-      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/2A1CA7F3-A476-47FD-9656-594309EEC991.jpeg",
-      "url": "https://link.storjshare.io/raw/jvmfqvt777zyzmyk2c66orowor4q/repo/ipa/adblocker.dylib",
-      "notify": true
-    },
-    {
       "title": "forScore Cracked",
       "identifier": "forscore",
       "caption": "One of the only sources with a working cracked forScore Pro. Click the link below to download.",
@@ -763,6 +754,16 @@
       "tintColor": "#000000",
       "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/ap29-logo.png",
       "url": "https://antonp29.pages.dev/",
+      "notify": true
+    },
+    {
+      "title": "AdBlocker dylib",
+      "identifier": "adblocker-dylib",
+      "caption": "Click the link below to download the AdBlocker dylib",
+      "date": "2025-04-1",
+      "tintColor": "#000000",
+      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/2A1CA7F3-A476-47FD-9656-594309EEC991.jpeg",
+      "url": "https://link.storjshare.io/raw/jvmfqvt777zyzmyk2c66orowor4q/repo/ipa/adblocker.dylib",
       "notify": true
     }
   ]
