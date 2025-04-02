@@ -19,7 +19,7 @@
       "developerName": "AntonP29",
       "subtitle": "Retro photo editor v2.0.7",
       "description": "A photography app offering vintage filters and effects with premium features unlocked.",
-      "localizedDescription": "1998 Vintage Cam v2.0.7\n- Transform your photos with retro filters and effects.\n- Features: Premium filters, editing tools, and no watermarks unlocked.\n- Premium features cracked for free.",
+      "localizedDescription": "1998 Vintage Cam v2.0.7\n- Transform your photos with retro filters and effects.\n- Features: Premium filters, editing tools, and no watermarks unlocked.\n- Premium features cracked for free.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/1998vincam.jpg",
       "tintColor": "#8B4513",
       "category": "photo & video",
@@ -28,8 +28,44 @@
       "downloadURL": "https://link.storjshare.io/raw/jxtu27bv7u7wa3gfub7qbx36ehia/pirating.xyz-general/1998%20Vintage%20Cam%20Pro%202.0.7.ipa",
       "size": 91226112,
       "title": "1998 Vintage Cam",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "2.0.7",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/jxtu27bv7u7wa3gfub7qbx36ehia/pirating.xyz-general/1998%20Vintage%20Cam%20Pro%202.0.7.ipa",
+          "size": 91226112
+        }
+      ]
     },
+    {
+      "beta": false,
+      "name": "AdBlock dylib",
+      "bundleIdentifier": "xyz.pirating.adblock",
+      "developerName": "AntonP29",
+      "subtitle": "AdBlock dylib - inject into sideloaded apps to remove ads",
+      "description": "Inject dylib into sideloaded apps to remove ads\nStatus: ✅",
+      "localizedDescription": "AdBlock dylib used for removing ads in sideloaded apps\n- Downloading dylibs in signer apps does not work.\n- To download - copy download URL and paste into browser.\nStatus: ✅\n\nAlternatively, if you are using Feather, download the dylib from the above tiles in the beginning of the repo.",
+      "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/dylibicon.png",
+      "tintColor": "#000000",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate": "2025-04-1",
+      "downloadURL": "https://link.storjshare.io/raw/jvmfqvt777zyzmyk2c66orowor4q/repo/ipa/adblocker.dylib",
+      "size": 145000,
+      "title": "AdBlock dylib",
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/jvmfqvt777zyzmyk2c66orowor4q/repo/ipa/adblocker.dylib",
+          "size": 145000
+        }
+      ]
+    }
     {
       "beta": false,
       "name": "Adobe Lightroom: Photo Editor",
@@ -37,7 +73,7 @@
       "developerName": "AntonP29",
       "subtitle": "Pro photo editing v10.2.3",
       "description": "Edit photos with professional tools and Pro features unlocked.",
-      "localizedDescription": "Adobe Lightroom: Photo Editor v10.2.3\n- Advanced photo editing for mobile.\n- Features: Pro unlocked - premium presets, healing tools, and cloud storage.\n- No subscription needed.",
+      "localizedDescription": "Adobe Lightroom: Photo Editor v10.2.3\n- Advanced photo editing for mobile.\n- Features: Pro unlocked - premium presets, healing tools, and cloud storage.\n- No subscription needed.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/lightroom.jpg",
       "tintColor": "#31A8FF",
       "category": "photo & video",
@@ -46,7 +82,16 @@
       "downloadURL": "https://link.storjshare.io/raw/junigbndoj6di5rq5hdkrnednyra/pirating.xyz-general/Lightroomv10.2.3ProMoe.ipa",
       "size": 196083712,
       "title": "Adobe Lightroom: Photo Editor",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "10.2.3",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/junigbndoj6di5rq5hdkrnednyra/pirating.xyz-general/Lightroomv10.2.3ProMoe.ipa",
+          "size": 196083712
+        }
+      ]
     },
     {
       "beta": false,
@@ -55,7 +100,7 @@
       "developerName": "AntonP29",
       "subtitle": "Photo editing with Premium v25.6.1",
       "description": "Edit photos with premium tools and effects unlocked for free.",
-      "localizedDescription": "Adobe Photoshop Express Photo Editor v25.6.1\n- Quick and powerful photo editing.\n- Features: Premium cracked - advanced filters, healing tools, and no watermarks.\n- Tweaked by Jacks Apps.",
+      "localizedDescription": "Adobe Photoshop Express Photo Editor v25.6.1\n- Quick and powerful photo editing.\n- Features: Premium cracked - advanced filters, healing tools, and no watermarks.\n- Tweaked by Jacks Apps.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/PS%20express.jpg",
       "tintColor": "#1E90FF",
       "category": "photo & video",
@@ -64,7 +109,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jwt3fisme2z6evoux6s6orihv6oa/pirating.xyz-general/PS_Express_25.6.1_Jacks_Apps.ipa",
       "size": 155189248,
       "title": "Adobe Photoshop Express Photo Editor",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "25.6.1",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/jwt3fisme2z6evoux6s6orihv6oa/pirating.xyz-general/PS_Express_25.6.1_Jacks_Apps.ipa",
+          "size": 155189248
+        }
+      ]
     },
     {
       "beta": false,
@@ -73,7 +127,7 @@
       "developerName": "AntonP29",
       "subtitle": "Safe, Private Browsing Access v2.3.8",
       "description": "Cracked premium features in fast and secure Bitdefender VPN.",
-      "localizedDescription": "Bitdefender VPN: Fast & Secure v2.3.8\n- Fast and Secure VPN.\n- Features: Premium cracked - unlimited usage for free.\n- Tweaked by ethMods Team.",
+      "localizedDescription": "Bitdefender VPN: Fast & Secure v2.3.8\n- Fast and Secure VPN.\n- Features: Premium cracked - unlimited usage for free.\n- Tweaked by ethMods Team.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/bitdefendericon.jpg",
       "tintColor": "#f22a2a",
       "category": "utilities",
@@ -82,7 +136,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jujtvbesltenumt2tu4m2bvc5nva/pirating.xyz-general/BitdefenderVPN.ipa",
       "size": 287336000,
       "title": "Bitdefender VPN: Fast & Secure",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "2.3.8",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/jujtvbesltenumt2tu4m2bvc5nva/pirating.xyz-general/BitdefenderVPN.ipa",
+          "size": 287336000
+        }
+      ]
     },
     {
       "beta": false,
@@ -91,7 +154,7 @@
       "developerName": "AntonP29",
       "subtitle": "Secure VPN v2.2.8",
       "description": "A VPN app with premium features unlocked for secure browsing.",
-      "localizedDescription": "DreamDownloader VPN v2.2.8\n- Protect your online privacy with a fast VPN.\n- Features: Premium unlocked - unlimited bandwidth, multiple servers, no ads.\n- Free premium access.",
+      "localizedDescription": "DreamDownloader VPN v2.2.8\n- Protect your online privacy with a fast VPN.\n- Features: Premium unlocked - unlimited bandwidth, multiple servers, no ads.\n- Free premium access.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/dreamdownloader%20vpn.jpg",
       "tintColor": "#4682B4",
       "category": "utilities",
@@ -100,7 +163,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jvxwkz5saeuaubxn7lutto4ibqxq/pirating.xyz-general/net.dreamdownloader.vpn-2.2.8-83051_patched.ipa",
       "size": 13631488,
       "title": "DreamDownloader VPN",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "2.2.8",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/jvxwkz5saeuaubxn7lutto4ibqxq/pirating.xyz-general/net.dreamdownloader.vpn-2.2.8-83051_patched.ipa",
+          "size": 13631488
+        }
+      ]
     },
     {
       "beta": false,
@@ -109,7 +181,7 @@
       "developerName": "AntonP29",
       "subtitle": "Flight tracking with Gold v10.7.0",
       "description": "Track flights in real-time with Gold features unlocked for an enhanced experience.",
-      "localizedDescription": "Flightradar24 Flight Tracker v10.7.0\n- Real-time flight tracking worldwide.\n- Features: Gold unlocked - 3D view, extended flight info, and no ads.\n- Free Gold tier access.",
+      "localizedDescription": "Flightradar24 Flight Tracker v10.7.0\n- Real-time flight tracking worldwide.\n- Features: Gold unlocked - 3D view, extended flight info, and no ads.\n- Free Gold tier access.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/flightradar.jpg",
       "tintColor": "#FFD700",
       "category": "travel",
@@ -118,7 +190,16 @@
       "downloadURL": "https://link.storjshare.io/raw/juozmsbjb7whexeg3xm42y2r5bta/pirating.xyz-general/Flightradar%20Gold%2010.7.0.ipa",
       "size": 171966464,
       "title": "Flightradar24 Flight Tracker",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "10.7.0",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/juozmsbjb7whexeg3xm42y2r5bta/pirating.xyz-general/Flightradar%20Gold%2010.7.0.ipa",
+          "size": 171966464
+        }
+      ]
     },
     {
       "beta": false,
@@ -127,7 +208,7 @@
       "developerName": "AntonP29",
       "subtitle": "Sheet music reader v14.3.4",
       "description": "A powerful sheet music reader for iOS with annotation and organization features.",
-      "localizedDescription": "forScore v14.3.4\n- A powerful paid sheet music reader for iOS.\n- Features: Annotate, organize, and share sheet music.\n- Pro unlocked, decrypted IPA. Usually $25 - Free",
+      "localizedDescription": "forScore v14.3.4\n- A powerful paid sheet music reader for iOS.\n- Features: Annotate, organize, and share sheet music.\n- Pro unlocked, decrypted IPA. Usually $25 - Free\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/forscore-icon.jpg",
       "tintColor": "#326B8B",
       "category": "music",
@@ -136,7 +217,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jv3ddzi2cyl3duw5cefafg4kqfxa/pirating.xyz-general/forScore%20(v14.3.4).ipa",
       "size": 12582912,
       "title": "forScore",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "14.3.4",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/jv3ddzi2cyl3duw5cefafg4kqfxa/pirating.xyz-general/forScore%20(v14.3.4).ipa",
+          "size": 12582912
+        }
+      ]
     },
     {
       "beta": false,
@@ -145,7 +235,7 @@
       "developerName": "AntonP29",
       "subtitle": "Playlist transfer v9.12.0",
       "description": "Transfer playlists between music services with subscription features unlocked.",
-      "localizedDescription": "FreeYourMusic - Move Playlists v9.12.0\n- Easily transfer playlists across platforms like Spotify, Apple Music, etc.\n- Features: Subscription unlocked - unlimited transfers and no restrictions.\n- Tweaked by @blatants.",
+      "localizedDescription": "FreeYourMusic - Move Playlists v9.12.0\n- Easily transfer playlists across platforms like Spotify, Apple Music, etc.\n- Features: Subscription unlocked - unlimited transfers and no restrictions.\n- Tweaked by @blatants.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/freeyourmusic.jpg",
       "tintColor": "#FF69B4",
       "category": "music",
@@ -154,7 +244,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jx5pycq5dvgdiz3vyk2gygzknuia/pirating.xyz-general/FreeYourMusic%20v9.12.0%20Subscription%20Unlocked%20blatant.ipa",
       "size": 26214400,
       "title": "FreeYourMusic - Move Playlists",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "9.12.0",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/jx5pycq5dvgdiz3vyk2gygzknuia/pirating.xyz-general/FreeYourMusic%20v9.12.0%20Subscription%20Unlocked%20blatant.ipa",
+          "size": 26214400
+        }
+      ]
     },
     {
       "beta": false,
@@ -163,7 +262,7 @@
       "developerName": "AntonP29",
       "subtitle": "AI assistant with Pro v7.7.1",
       "description": "An AI-powered chatbot for answering questions and assisting users with Pro features unlocked.",
-      "localizedDescription": "Genie - AI Chatbot Assistant v7.7.1\n- Your personal AI assistant for queries and tasks.\n- Features: Pro unlocked with advanced AI responses and no limits.\n- Tweaked by @blatants.",
+      "localizedDescription": "Genie - AI Chatbot Assistant v7.7.1\n- Your personal AI assistant for queries and tasks.\n- Features: Pro unlocked with advanced AI responses and no limits.\n- Tweaked by @blatants.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/genie.jpg",
       "tintColor": "#FFD700",
       "category": "productivity",
@@ -172,7 +271,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jxhxer4fzqhteczfaalqwuwzitvq/pirating.xyz-general/Chatbot_AI_Assistant_Genie_v7_7_1_Pro_Unlocked_blatant_blatant_patched.ipa",
       "size": 69206016,
       "title": "Genie - AI Chatbot Assistant",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "7.7.1",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/jxhxer4fzqhteczfaalqwuwzitvq/pirating.xyz-general/Chatbot_AI_Assistant_Genie_v7_7_1_Pro_Unlocked_blatant_blatant_patched.ipa",
+          "size": 69206016
+        }
+      ]
     },
     {
       "beta": false,
@@ -181,7 +289,7 @@
       "developerName": "AntonP29",
       "subtitle": "Ad-free streaming app v4.0",
       "description": "A streaming app for movies and TV shows with an ad-free experience.",
-      "localizedDescription": "HD Flix No Ads\n- A streaming app for movies and TV shows.\n- Features: Ad-free experience, high-quality streaming.\n- Note: Requires iOS 14.0 or later.",
+      "localizedDescription": "HD Flix No Ads\n- A streaming app for movies and TV shows.\n- Features: Ad-free experience, high-quality streaming.\n- Note: Requires iOS 14.0 or later.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/hdflix-icon.jpeg",
       "tintColor": "#228B22",
       "category": "entertainment",
@@ -190,7 +298,16 @@
       "downloadURL": "https://link.storjshare.io/raw/juikrj5yjmz4wwwudbo62bpl6ppa/pirating.xyz-general/HD_Flix_No_Ads_Pirating.xyz.ipa",
       "size": 15728640,
       "title": "HD Flix",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "4.0",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/juikrj5yjmz4wwwudbo62bpl6ppa/pirating.xyz-general/HD_Flix_No_Ads_Pirating.xyz.ipa",
+          "size": 15728640
+        }
+      ]
     },
     {
       "beta": false,
@@ -199,7 +316,7 @@
       "developerName": "AntonP29",
       "subtitle": "Ad-free streaming app v2.0",
       "description": "An earlier version of the streaming app for movies and TV shows with an ad-free experience.",
-      "localizedDescription": "HD Flix No Ads v2.0\n- A streaming app for movies and TV shows.\n- Features: Ad-free experience, high-quality streaming.\n- Note: If HD Flix 4.0 doesn't work well for you, try this version.\n- Requires iOS 14.0 or later.",
+      "localizedDescription": "HD Flix No Ads v2.0\n- A streaming app for movies and TV shows.\n- Features: Ad-free experience, high-quality streaming.\n- Note: If HD Flix 4.0 doesn't work well for you, try this version.\n- Requires iOS 14.0 or later.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/hdflix-icon.jpeg",
       "tintColor": "#228B22",
       "category": "entertainment",
@@ -208,7 +325,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jvje6sbdzeyhjubpcxxmgvmp6gwa/pirating.xyz-general/HD_Flix_(CinemamaBox)_2.0_Jacks_Apps.ipa",
       "size": 15048701,
       "title": "HD Flix",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2025-03-23",
+          "downloadURL": "https://link.storjshare.io/raw/jvje6sbdzeyhjubpcxxmgvmp6gwa/pirating.xyz-general/HD_Flix_(CinemamaBox)_2.0_Jacks_Apps.ipa",
+          "size": 15048701
+        }
+      ]
     },
     {
       "beta": false,
@@ -217,7 +343,7 @@
       "developerName": "AntonP29",
       "subtitle": "Free movies app v1.0.2",
       "description": "A free streaming app for movies and TV shows, an alternative to HD Flix.",
-      "localizedDescription": "Hdo Play v1.0.2\n- Enjoy movies and TV shows at no cost.\n- Features: Unlimited streaming, no ads, high-quality playback.\n- A great alternative to HD Flix.\n- No subscription needed.",
+      "localizedDescription": "Hdo Play v1.0.2\n- Enjoy movies and TV shows at no cost.\n- Features: Unlimited streaming, no ads, high-quality playback.\n- A great alternative to HD Flix.\n- No subscription needed.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/HdoPlay.png",
       "tintColor": "#DC143C",
       "category": "entertainment",
@@ -226,7 +352,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jvq4wvdus7rdstcysgvftns6yeia/pirating.xyz-general/HdoPlay-1-0-2-Crack.ipa",
       "size": 8765150,
       "title": "Hdo Play",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2025-03-23",
+          "downloadURL": "https://link.storjshare.io/raw/jvq4wvdus7rdstcysgvftns6yeia/pirating.xyz-general/HdoPlay-1-0-2-Crack.ipa",
+          "size": 8765150
+        }
+      ]
     },
     {
       "beta": false,
@@ -235,7 +370,7 @@
       "developerName": "AntonP29",
       "subtitle": "File compression tool v20.60",
       "description": "A file compression and decompression tool for iOS with pro features unlocked.",
-      "localizedDescription": "iZip Pro v20.60\n- A file compression and decompression tool for iOS.\n- Features: Unzip and zip files, support for multiple formats.\n- Pro features unlocked.",
+      "localizedDescription": "iZip Pro v20.60\n- A file compression and decompression tool for iOS.\n- Features: Unzip and zip files, support for multiple formats.\n- Pro features unlocked.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/iZip%20Pro%20-%20icon.jpg",
       "tintColor": "#00BFFE",
       "category": "utilities",
@@ -244,7 +379,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jujzo5snzsvlbkiikmq6sgsoithq/pirating.xyz-general/iZip%20Pro%20v20.60.ipa",
       "size": 25165824,
       "title": "iZip Pro",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "20.60",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/jujzo5snzsvlbkiikmq6sgsoithq/pirating.xyz-general/iZip%20Pro%20v20.60.ipa",
+          "size": 25165824
+        }
+      ]
     },
     {
       "beta": false,
@@ -253,7 +397,7 @@
       "developerName": "AntonP29",
       "subtitle": "Music game with VIP v12.031.007",
       "description": "Play piano tiles with VIP features unlocked for an enhanced music experience.",
-      "localizedDescription": "Magic Tiles 3: Piano Game v12.031.007\n- Tap tiles to play your favorite songs.\n- Features: VIP unlocked - unlimited songs, ad-free, and exclusive content.\n- Cracked for free.",
+      "localizedDescription": "Magic Tiles 3: Piano Game v12.031.007\n- Tap tiles to play your favorite songs.\n- Features: VIP unlocked - unlimited songs, ad-free, and exclusive content.\n- Cracked for free.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/magic%20tiles%203.jpg",
       "tintColor": "#FF1493",
       "category": "games",
@@ -262,7 +406,16 @@
       "downloadURL": "https://link.storjshare.io/raw/juvum4qcbnlj4lfbrsahbofmtkwa/pirating.xyz-general/Magic%20Tiles%203%20Vip%2012.031.007.ipa",
       "size": 213909504,
       "title": "Magic Tiles 3: Piano Game",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "12.031.007",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/juvum4qcbnlj4lfbrsahbofmtkwa/pirating.xyz-general/Magic%20Tiles%203%20Vip%2012.031.007.ipa",
+          "size": 213909504
+        }
+      ]
     },
     {
       "beta": false,
@@ -271,7 +424,7 @@
       "developerName": "AntonP29",
       "subtitle": "Internet speed test v5.5.5",
       "description": "Measure your internet speed with premium features unlocked for free.",
-      "localizedDescription": "Ookla Speedtest v5.5.5\n- Test your network speed with precision.\n- Features: Premium unlocked - detailed analytics, ad-free, VPN access.\n- No subscription required.",
+      "localizedDescription": "Ookla Speedtest v5.5.5\n- Test your network speed with precision.\n- Features: Premium unlocked - detailed analytics, ad-free, VPN access.\n- No subscription required.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/speedtesticon.jpg",
       "tintColor": "#FF8C00",
       "category": "utilities",
@@ -280,7 +433,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jvs75naduruadugm2wanhqd2atqa/pirating.xyz-general/com.ookla.speedtest-5.5.5_patched_nofix.ipa",
       "size": 69562515,
       "title": "Ookla Speedtest",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "5.5.5",
+          "date": "2025-03-23",
+          "downloadURL": "https://link.storjshare.io/raw/jvs75naduruadugm2wanhqd2atqa/p要注意irating.xyz-general/com.ookla.speedtest-5.5.5_patched_nofix.ipa",
+          "size": 69562515
+        }
+      ]
     },
     {
       "beta": false,
@@ -289,7 +451,7 @@
       "developerName": "AntonP29",
       "subtitle": "Math solver with Plus v8.42.0",
       "description": "Solve math problems with step-by-step explanations and Plus features unlocked.",
-      "localizedDescription": "Photomath v8.42.0\n- Scan and solve math problems instantly.\n- Features: Plus unlocked - textbook solutions, advanced calculators, no ads.\n- Tweaked by @blatants.",
+      "localizedDescription": "Photomath v8.42.0\n- Scan and solve math problems instantly.\n- Features: Plus unlocked - textbook solutions, advanced calculators, no ads.\n- Tweaked by @blatants.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/photomath.jpg",
       "tintColor": "#00CED1",
       "category": "education",
@@ -298,7 +460,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jwgn3vzdy4cltd3655ecxgltumlq/pirating.xyz-general/Photomath%20Plus%208.42.0.ipa",
       "size": 18874368,
       "title": "Photomath",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "8.42.0",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/jwgn3vzdy4cltd3655ecxgltumlq/pirating.xyz-general/Photomath%20Plus%208.42.0.ipa",
+          "size": 18874368
+        }
+      ]
     },
     {
       "beta": false,
@@ -307,7 +478,7 @@
       "developerName": "AntonP29",
       "subtitle": "Advanced camera app v18.3.3",
       "description": "A professional camera app with all paid features unlocked for enhanced photography.",
-      "localizedDescription": "ProCamera v18.3.3\n- Elevate your photography with pro-level controls.\n- Features: All paid features unlocked - manual controls, RAW capture, and more.\n- Originally $30, now free.\n- Tweaked by Moe from ethSign.",
+      "localizedDescription": "ProCamera v18.3.3\n- Elevate your photography with pro-level controls.\n- Features: All paid features unlocked - manual controls, RAW capture, and more.\n- Originally $30, now free.\n- Tweaked by Moe from ethSign.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/procameraicon.jpg",
       "tintColor": "#000080",
       "category": "photo & video",
@@ -316,7 +487,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jwg7qunodppe3m4oe2eis6yiwpua/pirating.xyz-general/ProCamera18.3.3ProMoe_patched_nofix.ipa",
       "size": 92417686,
       "title": "ProCamera",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "18.3.3",
+          "date": "2025-03-23",
+          "downloadURL": "https://link.storjshare.io/raw/jwg7qunodppe3m4oe2eis6yiwpua/pirating.xyz-general/ProCamera18.3.3ProMoe_patched_nofix.ipa",
+          "size": 92417686
+        }
+      ]
     },
     {
       "beta": false,
@@ -325,7 +505,7 @@
       "developerName": "AntonP29",
       "subtitle": "Free movies/TV app v2.0.3",
       "description": "A streaming app for movies and TV shows with no subscription required.",
-      "localizedDescription": "ShowMania v2.0.3\n- Watch movies and TV shows for free.\n- Features: Free movies/TV app - unlimited streaming, no ads, high quality.\n- No subscription needed.",
+      "localizedDescription": "ShowMania v2.0.3\n- Watch movies and TV shows for free.\n- Features: Free movies/TV app - unlimited streaming, no ads, high quality.\n- No subscription needed.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/show-mania.png",
       "tintColor": "#800080",
       "category": "entertainment",
@@ -334,7 +514,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jxrvp6th7xbfoxehsrcn74r2j52a/pirating.xyz-general/ShowMania_2.0_3.ipa",
       "size": 13631488,
       "title": "ShowMania",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "2.0.3",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/jxrvp6th7xbfoxehsrcn74r2j52a/pirating.xyz-general/ShowMania_2.0_3.ipa",
+          "size": 13631488
+        }
+      ]
     },
     {
       "beta": false,
@@ -343,7 +532,7 @@
       "developerName": "AntonP29",
       "subtitle": "NFC reader/writer v1.5",
       "description": "A paid NFC app for reading and writing tags, now free with all features unlocked.",
-      "localizedDescription": "Smart NFC v1.5\n- Read and write NFC tags with ease.\n- Features: Full access unlocked - tag scanning, writing, and formatting.\n- Originally a paid app, now free.",
+      "localizedDescription": "Smart NFC v1.5\n- Read and write NFC tags with ease.\n- Features: Full access unlocked - tag scanning, writing, and formatting.\n- Originally a paid app, now free.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/smartnfcicon.jpg",
       "tintColor": "#2E8B57",
       "category": "utilities",
@@ -352,7 +541,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jwwnoi5k3gr6tht6cek4frwaikyq/pirating.xyz-general/Smart%20NFC_1.5.ipa",
       "size": 1482686,
       "title": "Smart NFC",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "1.5",
+          "date": "2025-03-23",
+          "downloadURL": "https://link.storjshare.io/raw/jwwnoi5k3gr6tht6cek4frwaikyq/pirating.xyz-general/Smart%20NFC_1.5.ipa",
+          "size": 1482686
+        }
+      ]
     },
     {
       "beta": false,
@@ -361,7 +559,7 @@
       "developerName": "AntonP29",
       "subtitle": "Premium streaming v9.0.30",
       "description": "Stream music and podcasts with premium features injected via EeveeSpotify.",
-      "localizedDescription": "Spotify Music v9.0.30\n- Stream your favorite music and podcasts.\n- Features: Injected with EeveeSpotify - Premium unlocked, ad-free, offline playback.\n- No subscription required.",
+      "localizedDescription": "Spotify Music v9.0.30\n- Stream your favorite music and podcasts.\n- Features: Injected with EeveeSpotify - Premium unlocked, ad-free, offline playback.\n- No subscription required.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/spotify.jpg",
       "tintColor": "#1DB954",
       "category": "music",
@@ -370,7 +568,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jve2l3ut465wd626ojavdr7mm3kq/pirating.xyz-general/EeveeSpotify-9.0.30_patched.ipa",
       "size": 88080384,
       "title": "Spotify Music",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "9.0.30",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/jve2l3ut465wd626ojavdr7mm3kq/pirating.xyz-general/EeveeSpotify-9.0.30_patched.ipa",
+          "size": 88080384
+        }
+      ]
     },
     {
       "beta": false,
@@ -379,7 +586,7 @@
       "developerName": "AntonP29",
       "subtitle": "Step counter with Pro v8.2.4",
       "description": "Track your steps and fitness goals with Pro features unlocked.",
-      "localizedDescription": "StepsApp Pedometer v8.2.4\n- Monitor your daily steps and activity.\n- Features: Pro unlocked - advanced analytics, goal setting, no ads.\n- Cracked for free.",
+      "localizedDescription": "StepsApp Pedometer v8.2.4\n- Monitor your daily steps and activity.\n- Features: Pro unlocked - advanced analytics, goal setting, no ads.\n- Cracked for free.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/stepsapp.jpg",
       "tintColor": "#FF4500",
       "category": "health & fitness",
@@ -388,7 +595,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jvwbeabhncfgzr3ex6nadmox7dna/pirating.xyz-general/StepsApp%20Pedometer%208.2.4.ipa",
       "size": 147849216,
       "title": "StepsApp Pedometer",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "8.2.4",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/jvwbeabhncfgzr3ex6nadmox7dna/pirating.xyz-general/StepsApp%20Pedometer%208.2.4.ipa",
+          "size": 147849216
+        }
+      ]
     },
     {
       "beta": false,
@@ -397,7 +613,7 @@
       "developerName": "AntonP29",
       "subtitle": "Caller ID with Gold Unlocked v14.10",
       "description": "Identify unknown callers and block spam with Gold Unlocked features.",
-      "localizedDescription": "Truecaller: Number & Caller ID v14.10\n- Identify unknown callers and block spam.\n- Modifier: Gold Unlocked.\n- Note: Requires iOS 16.0 or later.\n\nTweaked by @blatants",
+      "localizedDescription": "Truecaller: Number & Caller ID v14.10\n- Identify unknown callers and block spam.\n- Modifier: Gold Unlocked.\n- Note: Requires iOS 16.0 or later.\n- Tweaked by @blatants\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/Truecaller-icon.jpg",
       "tintColor": "#FF4500",
       "category": "communication",
@@ -406,7 +622,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jwr7barppycb74g2mwgmezzo4yca/pirating.xyz-general/Truecaller_Number_%26_Caller_ID_v14_10_Gold_Unlocked_blatant_blatant.ipa",
       "size": 120586240,
       "title": "Truecaller",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "14.10",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/jwr7barppycb74g2mwgmezzo4yca/pirating.xyz-general/Truecaller_Number_%26_Caller_ID_v14_10_Gold_Unlocked_blatant_blatant.ipa",
+          "size": 120586240
+        }
+      ]
     },
     {
       "beta": false,
@@ -415,7 +640,7 @@
       "developerName": "AntonP29",
       "subtitle": "Wallpapers with Pro v1.86.0",
       "description": "Access high-quality wallpapers with Pro features unlocked.",
-      "localizedDescription": "Walli - HD Wallpapers v1.86.0\n- Discover stunning wallpapers for your device.\n- Features: Pro unlocked/cracked - premium collections, no ads, full access.\n- Tweaked by Moe.",
+      "localizedDescription": "Walli - HD Wallpapers v1.86.0\n- Discover stunning wallpapers for your device.\n- Features: Pro unlocked/cracked - premium collections, no ads, full access.\n- Tweaked by Moe.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/walli.jpg",
       "tintColor": "#9932CC",
       "category": "lifestyle",
@@ -424,7 +649,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jwst2ygi7w2ovbf724huvlrb3nxa/pirating.xyz-general/Walli1.86.0ProMoe.ipa",
       "size": 123731968,
       "title": "Walli - HD Wallpapers",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "1.86.0",
+          "date": "2025-03-11",
+          "downloadURL": "https://link.storjshare.io/raw/jwst2ygi7w2ovbf724huvlrb3nxa/pirating.xyz-general/Walli1.86.0ProMoe.ipa",
+          "size": 123731968
+        }
+      ]
     },
     {
       "beta": false,
@@ -433,7 +667,7 @@
       "developerName": "AntonP29",
       "subtitle": "Video with YTLite v20.13.5",
       "description": "Watch videos with premium features via YTLite tweak.",
-      "localizedDescription": "YouTube v20.13.5\n- Stream videos and shorts with enhanced features.\n- Features: YTLite (premium features) - ad-free, background play, no restrictions.\n- Injected with YTLite 5.2 Beta 1.\n- Tweaked by Moe",
+      "localizedDescription": "YouTube v20.13.5\n- Stream videos and shorts with enhanced features.\n- Features: YTLite (premium features) - ad-free, background play, no restrictions.\n- Injected with YTLite 5.2 Beta 1.\n- Tweaked by Moe\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/youtube.jpg",
       "tintColor": "#FF0000",
       "category": "entertainment",
@@ -442,7 +676,16 @@
       "downloadURL": "https://link.storjshare.io/raw/jucakj3dbbbfs262r5knuli6z7ga/pirating.xyz-general/Youtube20.13.5YTLite5.2Beta1FullMoe.ipa",
       "size": 117440512,
       "title": "YouTube",
-      "url": "https://antonp29.pages.dev/"
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "20.13.5",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/jucakj3dbbbfs262r5knuli6z7ga/pirating.xyz-general/Youtube20.13.5YTLite5.2Beta1FullMoe.ipa",
+          "size": 117440512
+        }
+      ]
     },
     {
       "beta": false,
@@ -451,7 +694,7 @@
       "developerName": "AntonP29",
       "subtitle": "Music with YTMusicUltimate+ v8.11.3",
       "description": "Stream music with YTMusicUltimate+ injected for premium features.",
-      "localizedDescription": "YouTube Music v8.11.3\n- Enjoy music streaming with enhanced capabilities.\n- Features: YTMusicUltimate+ injected - ad-free, offline mode, premium unlocked.\n- Tweaked by Jacks Apps.",
+      "localizedDescription": "YouTube Music v8.11.3\n- Enjoy music streaming with enhanced capabilities.\n- Features: YTMusicUltimate+ injected - ad-free, offline mode, premium unlocked.\n- Tweaked by Jacks Apps.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/ytmusic.jpg",
       "tintColor": "#FF0000",
       "category": "music",
@@ -460,10 +703,29 @@
       "downloadURL": "https://link.storjshare.io/raw/juep5bugajz6jnkh5347jqegjyta/pirating.xyz-general/YTMusicUltimate%2B_8.11.3_Jacks_Apps.ipa",
       "size": 85983232,
       "title": "YouTube Music",
-      "url": "https://antonp29.pages.dev/"
-    }
+      "url": "https://antonp29.pages.dev/",
+      "status": "✅",
+      "versions": [
+        {
+          "version": "8.11.3",
+          "date": "2025-04-1",
+          "downloadURL": "https://link.storjshare.io/raw/juep5bugajz6jnkh5347jqegjyta/pirating.xyz-general/YTMusicUltimate%2B_8.11.3_Jacks_Apps.ipa",
+          "size": 85983232
+        }
+      ]
+    },
   ],
   "news": [
+    {
+      "title": "AdBlocker dylib",
+      "identifier": "adblocker-dylib",
+      "caption": "Click the link below to download the AdBlocker dylib",
+      "date": "2025-04-1",
+      "tintColor": "#000000",
+      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/dylibicon.png",
+      "url": "https://link.storjshare.io/raw/jvmfqvt777zyzmyk2c66orowor4q/repo/ipa/adblocker.dylib",
+      "notify": true
+    },
     {
       "title": "forScore Cracked",
       "identifier": "forscore",
