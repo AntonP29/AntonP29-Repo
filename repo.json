@@ -560,6 +560,32 @@
     },
     {
       "beta": false,
+      "name": "StikJIT",
+      "bundleIdentifier": "com.stik.sj",
+      "developerName": "AntonP29",
+      "subtitle": "On-device JIT enabler (iOS 17.4+) v1.1",
+      "description": "On-device JIT enabler (iOS 17.4+)",
+      "localizedDescription": "New on-device JIT enabler\n- Requires iOS 17.4 or higher\n- Requires StosVPN\n\nTo get StosVPN use this TestFlight link: https://testflight.apple.com/join/hBUbg4ZJ\nAltenatively, if using Feather, refer to the StosVPN tile at the top of the repo.\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
+      "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/StikJIT_Rounded_Corners.png",
+      "tintColor": "#3396bd",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate": "2025-04-2",
+      "downloadURL": "https://github.com/0-Blu/StikJIT/releases/download/1.1/StikJit_1.1.ipa",
+      "size": 14100000,
+      "title": "StikJIT",
+      "url": "https://antonp29.pages.dev/",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2025-04-2",
+          "downloadURL": "https://github.com/0-Blu/StikJIT/releases/download/1.1/StikJit_1.1.ipa",
+          "size": 14100000
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "StepsApp Pedometer",
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "AntonP29",
@@ -690,6 +716,16 @@
     }
   ],
   "news": [
+    {
+      "title": "StosVPN Download Link",
+      "identifier": "stos-vpn",
+      "caption": "Click this link to join and download Stos VPN TestFlight - Required for StikJIT to work.",
+      "date": "2025-04-2",
+      "tintColor": "#000000",
+      "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/testflight-icon.png",
+      "url": "https://testflight.apple.com/join/hBUbg4ZJ",
+      "notify": true
+    },
     {
       "title": "AdBlocker dylib",
       "identifier": "adblocker-dylib",
