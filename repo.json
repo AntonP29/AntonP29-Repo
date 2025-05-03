@@ -641,23 +641,23 @@
       "name": "Spotify Music",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "AntonP29",
-      "subtitle": "Premium streaming v9.0.36",
+      "subtitle": "Premium streaming v9.0.40",
       "description": "Stream music and podcasts with premium features injected via EeveeSpotify.",
-      "localizedDescription": "Spotify Music v9.0.36\n- Stream your favorite music and podcasts.\n- Features: Injected with EeveeSpotify - Premium unlocked, ad-free, offline playback.\n- No subscription required.\n\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
+      "localizedDescription": "Spotify Music v9.0.40\n- Stream your favorite music and podcasts.\n- Features: Injected with EeveeSpotify - Premium unlocked, ad-free, offline playback.\n- No subscription required.\n\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/spotify.jpg",
       "tintColor": "#1DB954",
       "category": "music",
-      "version": "9.0.36",
-      "versionDate": "2025-04-28",
-      "downloadURL": "https://github.com/AntonP29/AntonP29-Repo/releases/download/v1.0.0/EeveeSpotify-v9.0.36-AP29.ipa",
+      "version": "9.0.40",
+      "versionDate": "2025-05-03",
+      "downloadURL": "https://github.com/AntonP29/AntonP29-Repo/releases/download/v1.0.0/EeveeSpotify-v9.0.40-AP29.ipa",
       "size": 88080384,
       "title": "Spotify Music",
       "url": "https://antonp29.pages.dev/",
       "versions": [
         {
-          "version": "9.0.36",
-          "date": "2025-04-28",
-          "downloadURL": "https://github.com/AntonP29/AntonP29-Repo/releases/download/v1.0.0/EeveeSpotify-v9.0.36-AP29.ipa",
+          "version": "9.0.40",
+          "date": "2025-05-03",
+          "downloadURL": "https://github.com/AntonP29/AntonP29-Repo/releases/download/v1.0.0/EeveeSpotify-v9.0.40-AP29.ipa",
           "size": 88080384
         }
       ]
