@@ -771,23 +771,23 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "AntonP29",
-      "subtitle": "Video with YTLite v20.15.1",
+      "subtitle": "Video with YTLite v20.18.4",
       "description": "Watch videos with premium features via YTLite tweak.",
-      "localizedDescription": "YouTube v20.15.1\n- Stream videos and shorts with enhanced features.\n- Features: YTLite (premium features) - ad-free, background play, no restrictions.\n- Injected with YTLite 5.2 Beta 1.\n- Tweaked by Moe\n\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
+      "localizedDescription": "YouTube v20.18.4\n- Stream videos and shorts with enhanced features.\n- Features: YTLite (premium features) - ad-free, background play, no restrictions.\n- Injected with YTLite 5.2 Beta 1.\n- Tweaked by Moe\n\niPA is ready for sideloading - All necessary plug-ins and patches have been injected 🔥\nStatus: ✅",
       "iconURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/youtube.jpg",
       "tintColor": "#FF0000",
       "category": "entertainment",
-      "version": "20.15.1",
-      "versionDate": "2025-04-28",
-      "downloadURL": "https://github.com/AntonP29/AntonP29-Repo/releases/download/v1.0.0/YouTube-v20.15.1-AP29.ipa",
+      "version": "20.18.4",
+      "versionDate": "2025-05-05",
+      "downloadURL": "https://github.com/AntonP29/AntonP29-Repo/releases/download/v1.0.0/YouTube-v20.18.4-AP29.ipa",
       "size": 117440512,
       "title": "YouTube",
       "url": "https://antonp29.pages.dev/",
       "versions": [
         {
-          "version": "20.15.1",
-          "date": "2025-04-28",
-          "downloadURL": "https://github.com/AntonP29/AntonP29-Repo/releases/download/v1.0.0/YouTube-v20.15.1-AP29.ipa",
+          "version": "20.18.4",
+          "date": "2025-05-05",
+          "downloadURL": "https://github.com/AntonP29/AntonP29-Repo/releases/download/v1.0.0/YouTube-v20.18.4-AP29.ipa",
           "size": 117440512
         }
       ]
