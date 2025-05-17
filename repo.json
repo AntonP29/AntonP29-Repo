@@ -868,8 +868,8 @@
     },
     {
       "title": "FilePickerFix dylib",
-      "identifier": "adblocker-dylib",
-      "caption": "Click the link below to download the FilePickerFix dylib.",
+      "identifier": "filepicker-dylib",
+      "caption": "Click the link below to download the FilePickerFix dylib\n- Made by DxSign.",
       "date": "2025-05-16",
       "tintColor": "#000000",
       "imageURL": "https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/icons/2A1CA7F3-A476-47FD-9656-594309EEC991.jpeg",
